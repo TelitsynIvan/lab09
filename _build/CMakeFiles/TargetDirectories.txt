@@ -1,0 +1,10 @@
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/print.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/demo.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/package.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/package_source.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/edit_cache.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/rebuild_cache.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/list_install_components.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/install.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/install/local.dir
+/users/marmelad/TelitsynIvan/workspace/projects/lab09/_build/CMakeFiles/install/strip.dir
